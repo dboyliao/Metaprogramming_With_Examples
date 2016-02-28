@@ -1,0 +1,14 @@
+<xml version='1.0'>
+<python_code>
+<item>
+<type>variable</type>
+<name>x</name>
+<value>"3"</value>
+</item>
+<item>
+<type>variable</type>
+<name>y</name>
+<value>3.14</value>
+</item>
+</python_code>
+</xml>
